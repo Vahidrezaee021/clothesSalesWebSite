@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: shabnam, arial, sans-serif;
+}
+
+@font-face {
+    font-family: shabnam;
+    src: url(../fonts/Shabnam.ttf);
+}
